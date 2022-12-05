@@ -1,0 +1,57 @@
+.App{
+  margin:25px
+}
+
+.main{
+  background-color: #1f2535;
+  color: white;
+  padding: 25px;
+}
+
+.intro{
+  padding: 20px;
+}
+
+.intro h1{
+  font-size: 75px;
+}
+
+.intro p{
+  font-size: 30px;
+}
+
+.footer-class{
+  margin-top:75px;
+  display: flex;
+  text-align: center;
+}
+
+/* .content-card-footer:nth-of-type(1) p:nth-of-type(1){
+margin-top: 0;
+} */
+
+.content-card-footer p:nth-of-type(1){
+  margin-top: 0;
+  font-weight: bold;
+}
+
+
+nav{
+  display: flex;
+  justify-content: space-between;
+}
+
+#blurred{
+  height: 10px;
+}
+
+button{
+  font-weight: bold;
+  font-size: 20px;
+  background-color: white;
+  color: #1f2535;
+  padding:20px;
+  border: 0px;
+  border-radius: 5px;
+}
+
